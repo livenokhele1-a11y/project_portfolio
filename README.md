@@ -7,7 +7,10 @@ This repository contains projects I have completed while training in cybersecuri
 # Projects
 
 - ATM Assignment
+- Cheerleader Assignment
+- CV Assignment
 - FizzBuzz Assignment
+- Tip Calculator Assignment
 
 # About Me
 
